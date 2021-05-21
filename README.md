@@ -1,17 +1,6 @@
 ### Hi there 👋
 
-I'm second-year CS student at ITMO University, ex Google YouTube and Google Core intern.
+I'm second-year student at [ITMO University](https://en.itmo.ru/), purshing a bachelor's degree in Computer Science. 
 
 <!-- Stats section -->
-<div class="stats">
-  <table cellpadding="0" cellspacing="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=warmte&include_all_commits=true&show_icons=true&count_private=true&hide=stars&hide_border=true">
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=warmte&langs_count=6&hide=TeX&hide_border=true">
-      </td>
-    </tr>
-  </table>
-</div>
+<img height="130px" src="https://github-readme-stats.vercel.app/api?username=warmte&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&theme=gray"/><img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=warmte&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=ffftheme=graywhite"/>
